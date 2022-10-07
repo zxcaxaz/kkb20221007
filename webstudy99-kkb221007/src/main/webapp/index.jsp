@@ -18,7 +18,7 @@
 </head>
 <body>
 <div class="container pt-3">
-	main1 	ui 작업 
+	main1 	ui 작업 ui 작업 ver2
 </div>
 </body>
 </html>
